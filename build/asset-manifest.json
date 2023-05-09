@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30d6f12d.css",
+    "main.js": "/static/js/main.75cf329b.js",
+    "static/media/bg.jpg": "/static/media/bg.fc932d1e80f400b17a93.jpg",
+    "static/media/pic_circle.png": "/static/media/pic_circle.18c57bf4051b0bbb50ae.png",
+    "static/media/SaeedJamali_CV.pdf": "/static/media/SaeedJamali_CV.d8b538cd2e35547ff798.pdf",
+    "static/media/EMU.png": "/static/media/EMU.9b851834aaba02c69bf6.png",
+    "static/media/elastic.png": "/static/media/elastic.f81752c469ee6d447d45.png",
+    "static/media/ml.png": "/static/media/ml.48a22a63022bf15d4298.png",
+    "static/media/commingSoon.jpg": "/static/media/commingSoon.b34f4c22cd6f5387d9b2.jpg",
+    "static/media/nlp.JPG": "/static/media/nlp.2c1e22ff95c8dc009a24.JPG",
+    "static/media/Concordia.png": "/static/media/Concordia.32b75b6b091f2cf86f69.png",
+    "static/media/ikiu.png": "/static/media/ikiu.f5a034d90bdd9712431c.png",
+    "static/media/phone.png": "/static/media/phone.bc85dcb40578e887df70.png",
+    "index.html": "/index.html",
+    "main.30d6f12d.css.map": "/static/css/main.30d6f12d.css.map",
+    "main.75cf329b.js.map": "/static/js/main.75cf329b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d6f12d.css",
+    "static/js/main.75cf329b.js"
+  ]
+}
