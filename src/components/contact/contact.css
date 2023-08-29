@@ -1,6 +1,6 @@
 .contact__container {
     display: grid;
-    grid-template-columns: 50% 35%;
+    grid-template-columns: 50% 50%;
 }
 
 .contact_card {

@@ -1,18 +1,18 @@
 import React from 'react'
 import './projects.css'
 import NLP from '../../assets/nlp.JPG'
-import CSoon from '../../assets/commingSoon.jpg'
+import Java from '../../assets/Java.png'
 import ML from '../../assets/ml.png'
 import Elastic from '../../assets/elastic.png'
 
 const Projects = () => {
   return (
     <section id="projects">
-      <h2>Projects</h2>
+      <h2>Selected Projects</h2>
       <div className="container proj__container">
 
         <div className="proj__card">
-          <h4> Machine Learning</h4>
+          <h4>Machine Learning</h4>
           <div className="proj">
             <div className="proj__img">
               <img src={ML} alt="csoon_proj" />
@@ -26,41 +26,24 @@ const Projects = () => {
               <a href="https://github.com/SaeedJamaly/Credit_Card_fraud_detection.git">Please visit my Github repository</a>
             </div>
           </div>
-
-          <div className="proj">
-
-            <div className="proj__img">
-              <img src={CSoon} alt="csoon_proj" />
-            </div>
-            <div className="proj__list">
-              <h3>Performance of Random Forest in Java and Python</h3>
-              <h5>Language: Python, Java Library: Scikit-learn, Tribuo</h5>
-              <h5></h5>
-              <h5></h5>
-              <h5></h5>
-              <a href="https://github.com/SaeedJamaly/Java_vs_Python_in_Random_Forest.git">Please visit my Github repository</a>
-            </div>
-          </div>
-
-
-          <div className="proj">
-
-            <div className="proj__img">
-              <img src={CSoon} alt="csoon_proj" />
-            </div>
-            <div className="proj__list">
-              <h3>Time-series generation using VAE_LSTM</h3>
-              <h5>Language: Python Library: Keras</h5>
-              <h5></h5>
-              <h5></h5>
-              <h5></h5>
-              <a href="https://github.com/SaeedJamaly/VAE-LSTM_in_Anomaly_detection.git">Please visit my Github repository</a>
-            </div>
-
-          </div>
-
         </div>
 
+        <div className="proj__card">
+          <h4>Design Patterns</h4>
+          <div className="proj">
+            <div className="proj__img">
+              <img src={Java} alt="csoon_proj" />
+            </div>
+            <div className="proj__list">
+              <h3>Java and JavaFX project</h3>
+              <h5>Language: Java</h5>
+              <h5>Rental management system design using MVC model</h5>
+              <h5>In this project we tried to use different design patterns</h5>
+              <h5>and OOP concepts in our design. The user interface we used JavaFX.</h5>
+              <a href="https://github.com/SaeedJamaly/Java-and-JavaFX.git">Please visit my Github repository</a>
+            </div>
+          </div>
+        </div>
 
         <div className="proj__card">
           <h4>Distributed Systems</h4>

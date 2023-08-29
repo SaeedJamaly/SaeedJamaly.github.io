@@ -8,7 +8,7 @@ const footer = () => {
 
 
       <div className="footer_text">
-        <h5>Jan 2022</h5>
+        <h5>Aug 2023</h5>
         <h5>Thanks for visiting my portfolio</h5>
 
         <a href="#" className='scroll__up_header'>Scroll Up</a>

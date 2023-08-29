@@ -1,6 +1,6 @@
 .edu__container {
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 45% 45%;
     padding-top: 2rem;
     gap: 2%;
     padding-left: 3%;

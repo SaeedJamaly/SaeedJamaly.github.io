@@ -7,7 +7,7 @@
 }
 
 .skill__card {
-    height: 75%;
+    height: 90%;
     background: var(--color-primary-variant);
     border: 1px solid transparent;
     border-radius: 1rem;
@@ -19,6 +19,7 @@
 
 .skill__card a {
     display: block;
+    text-align: center;
     padding-right: 2rem;
 }
 

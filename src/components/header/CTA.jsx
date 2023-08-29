@@ -1,7 +1,7 @@
 // Call to Action (for the buttons)
 
 import React from 'react'
-import CV from '../../assets/SaeedJamali_CV.pdf'
+import CV from '../../assets/CV_Saeed_Jamali.pdf'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
 import {BsStackOverflow} from 'react-icons/bs'
