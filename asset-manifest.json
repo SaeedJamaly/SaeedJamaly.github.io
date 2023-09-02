@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c79c5d3b.css",
-    "main.js": "/static/js/main.3f8f16d8.js",
+    "main.css": "/static/css/main.e7194694.css",
+    "main.js": "/static/js/main.442c24c7.js",
     "static/media/CV_Saeed_Jamali.pdf": "/static/media/CV_Saeed_Jamali.0585ca6963ca76ac4ad9.pdf",
-    "static/media/bg.jpg": "/static/media/bg.fc932d1e80f400b17a93.jpg",
     "static/media/pic_circle.png": "/static/media/pic_circle.18c57bf4051b0bbb50ae.png",
     "static/media/EMU.png": "/static/media/EMU.9b851834aaba02c69bf6.png",
     "static/media/elastic.png": "/static/media/elastic.f81752c469ee6d447d45.png",
@@ -13,11 +12,11 @@
     "static/media/Java.png": "/static/media/Java.82f70b29980ffda277df.png",
     "static/media/phone.png": "/static/media/phone.bc85dcb40578e887df70.png",
     "index.html": "/index.html",
-    "main.c79c5d3b.css.map": "/static/css/main.c79c5d3b.css.map",
-    "main.3f8f16d8.js.map": "/static/js/main.3f8f16d8.js.map"
+    "main.e7194694.css.map": "/static/css/main.e7194694.css.map",
+    "main.442c24c7.js.map": "/static/js/main.442c24c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c79c5d3b.css",
-    "static/js/main.3f8f16d8.js"
+    "static/css/main.e7194694.css",
+    "static/js/main.442c24c7.js"
   ]
 }
